@@ -1,0 +1,2 @@
+https://earthseed.space/csrf.php
+https://plug-mirror.rcac.purdue.edu/osdn//storage/g/l/li/linuxlite/4.8/linux-lite-4.8-64bit.iso
